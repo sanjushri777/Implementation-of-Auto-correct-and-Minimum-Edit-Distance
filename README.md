@@ -1,6 +1,7 @@
 
 # Implementation-of-Auto-correct-and-Minimum-Edit-Distance
-
+## NAME: SANJUSHRI A
+## REGNO:212223040187
 ## AIM:
 To implement an Auto-Correct System in Python using the Minimum Edit Distance algorithm and word frequency analysis from the NLTK corpus.
 
